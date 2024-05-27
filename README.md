@@ -17,9 +17,13 @@ a los demás y me sirve para afianzar conocimientos y crear comunidad.
 ## Puedes encontrarme en:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40matedeveloop-blue)](https://instagram.com/matedeveloop)
+
 [![Youtube](https://img.shields.io/badge/youtube-%40matedeveloop-red)](https://youtube.com/@matedeveloop)
+
 [![TikTok](https://img.shields.io/badge/TikTok-%40matedeveloop-69C9D0)](https://www.tiktok.com/@matedeveloop?t=8mi4h83x0Kn&_r=1)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Diaz-0077B5)](https://www.linkedin.com/in/jose-luis-diaz-garcia-aa0887229/)
+
 
 
 
