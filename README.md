@@ -16,7 +16,7 @@ a los demás y me sirve para afianzar conocimientos y crear comunidad.
 
 ## Puedes encontrarme en:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40matedeveloop-blue)](https://instagram.com/matedeveloop)
+[![Instagram](https://img.shields.io/badge/Instagram-%40matedeveloop-blue)](https://www.instagram.com/matedevloop/)
 
 [![Youtube](https://img.shields.io/badge/youtube-%40matedeveloop-red)](https://youtube.com/@matedeveloop)
 
